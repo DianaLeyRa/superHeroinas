@@ -1,7 +1,33 @@
-# **Margaret Hamilton (17 de agosto de 1936) es una científica computacional, matemática e ingeniera de Software.**
+# **Margaret Hamilton (17 de agosto de 1936)**
 
-Fue directora de la División de Ingeniería de Software del Laboratorio de Instrumentación del MIT, donde con su equipo desarrolló el software de navegación "on-board" para el Programa Espacial Apolo. En 1986, se convirtió en la fundadora y CEO de Hamilton Technologies, Inc. en Cambridge, Massachusetts. La compañía se desarrolló alrededor del lenguaje universal de sistemas basada en su paradigma de "desarrollo antes del hecho" (DBTF, del inglés Development Before the Fact) para sistemas de diseño de software. Acuñó el término «ingeniería de software» para distinguir entre el trabajo de hardware y otras ingenierías. A pesar de que su idea no fue bien recibida al inicio, eventualmente el software generó el mismo respeto que otras disciplinas.
+#### CientÃ­fica computacional, matemÃ¡tica e ingeniera de Software.
 
-El 22 de noviembre de 2016, Hamilton recibió la Medalla Presidencial de la Libertad, entregada por el expresidente de Estados Unidos Barack Obama, por su trabajo en la NASA durante las misiones Apolo.
+_Fue directora de la DivisiÃ³n de IngenierÃ­a_ de ~~Software~~ del Laboratorio de InstrumentaciÃ³n del MIT, donde con su equipo desarrollÃ³ el software de navegaciÃ³n "on-board" para el Programa Espacial Apolo. En 1986, se convirtiÃ³ en la fundadora y CEO de Hamilton Technologies, Inc. en Cambridge, Massachusetts. La compaÃ±Ã­a se desarrollÃ³ alrededor del lenguaje universal de sistemas basada en su paradigma de "desarrollo antes del hecho" (DBTF, del inglÃ©s Development Before the Fact) para sistemas de diseÃ±o de software. AcuÃ±Ã³ el tÃ©rmino Â«ingenierÃ­a de softwareÂ» para distinguir entre el trabajo de hardware y otras ingenierÃ­as. A pesar de que su idea no fue bien recibida al inicio, eventualmente el software generÃ³ el mismo respeto que otras disciplinas.
 
-Su enfoque del diseño de software fue pionero para la época, ya que los requisitos de robustez y tolerancia a fallos eran una prioridad para la seguridad y supervivencia de los astronautas durante los viajes a la Luna, es por esto que para muchos Margaret Hamilton es considerada una de las primeras personas en convertirse en Ingeniera de Confiabilidad del Sitio (del inglés Site Reliability Engineer).
+El 22 de noviembre de 2016, Hamilton recibiÃ³ la Medalla Presidencial de la Libertad, entregada por el expresidente de Estados Unidos Barack Obama, por su trabajo en la NASA durante las misiones Apolo.
+
+Su enfoque del diseÃ±o de software fue pionero para la Ã©poca, ya que los requisitos de robustez y tolerancia a fallos eran una prioridad para la seguridad y supervivencia de los astronautas durante los viajes a la Luna, es por esto que para muchos Margaret Hamilton es considerada una de las primeras personas en convertirse en Ingeniera de Confiabilidad del Sitio (del inglÃ©s Site Reliability Engineer).
+
+1. Ciencias de la comutaciÃ³n
+2. MatemÃ¡ticas
+3. IngenierÃ­a
+â‹…â‹…1. Ordered sub-list
+
+
+- uno
+- dos
+- tres
+
+* Ciencia de la computaciÃ³n
++ Matematicas
+
+### Link
+
+[Ver BiografÃ­a](https://es.wikipedia.org/wiki/Margaret_Hamilton_(cient%C3%ADfica))
+
+### Imagenes
+
+
+Margaret Hamilton:
+
+![alt text](https://urbe18.files.wordpress.com/2014/12/margaret-hamilton.jpg "Margarte Hamilton")
