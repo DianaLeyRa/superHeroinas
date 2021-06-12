@@ -1,12 +1,14 @@
-# **Ángela Ruiz Robles (Villamanín, 28 de marzo de 1895-Ferrol, 27 de octubre de 1975)**
+# **Ãngela Ruiz Robles (VillamanÃ­n, 28 de marzo de 1895-Ferrol, 27 de octubre de 1975)**
 
 
 
-Maestra, pedagoga e inventora española, reconocida como la precursora del libro electrónico.
+Maestra, pedagoga e inventora espaÃ±ola, reconocida como la precursora del libro electrÃ³nico.
 
 
-Fue la inventora de una enciclopedia mecánica que bien podría considerarse como el primer libro electrónico de la historia para facilitar el aprendizaje de los alumnos, pero nadie quiso materializar su idea, que podría haber revolucionado la educación.
+Fue la inventora de una enciclopedia mecÃ¡nica que bien podrÃ­a considerarse como el primer libro electrÃ³nico de la historia para facilitar el aprendizaje de los alumnos, pero nadie quiso materializar su idea, que podrÃ­a haber revolucionado la educaciÃ³n.
 
+
+Aqui va la imagen
 
 
 
