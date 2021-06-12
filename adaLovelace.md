@@ -1,3 +1,5 @@
+# **Augusta Ada King, condesa de Lovelace (Londres, 10 de diciembre de 1815 - 27 de noviembre de 1852)**
+
 Inteligente, ambiciosa, apasionada, curiosa, seductora, controvertida… Son solo algunos de los adjetivos que pueden ayudarnos a intuir cómo fue Ada Lovelace durante su corta, y, aun así, prolífica vida. Nació en Londres un 10 de diciembre de 1815, en el seno de una familia acomodada y en una época en la que las mujeres debían superar numerosas barreras para formarse y muros casi infranqueables para hacerse un hueco en el ámbito académico.
 
 La figura de Ada adquirió relevancia a mediados del siglo pasado, cien años después de su muerte, debido a que varios investigadores descubrieron su trabajo y un conjunto de aportaciones que décadas más tarde resultaron muy valiosas para el desarrollo de la informática y la programación.
