@@ -30,4 +30,4 @@ Su enfoque del diseño de software fue pionero para la época, ya que los requis
 
 Margaret Hamilton:
 
-![alt text](https://urbe18.files.wordpress.com/2014/12/margaret-hamilton.jpg "Margarte Hamilton")
+![alt text](https://github.com/DianaLeyRa/superHeroinas/blob/main/margaretH.gif "Margarte Hamilton")
