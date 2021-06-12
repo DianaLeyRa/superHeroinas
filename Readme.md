@@ -1,1 +1,2 @@
-Este repositorio es parahablar de mujeres increibles en la programación
+﻿Este repositorio es para hablar de mujeres increibles en la programación
+.
