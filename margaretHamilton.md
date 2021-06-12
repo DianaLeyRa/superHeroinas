@@ -23,9 +23,13 @@ Su enfoque del diseño de software fue pionero para la época, ya que los requis
 
 ### Link
 
+
+
 [Ver Biografía](https://es.wikipedia.org/wiki/Margaret_Hamilton_(cient%C3%ADfica))
 
 ### Imagenes
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 
 Margaret Hamilton:
