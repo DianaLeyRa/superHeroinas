@@ -1,7 +1,9 @@
 # **Evelyn Berezin (12 de abril de 1925, El Bronx, Nueva York - 8 de diciembre de 2018, Manhattan, Nueva York)**
 
-FÌsica, inform·tica y empresaria estadounidense. InventÛ el ordenador de oficina. DesarrollÛ el primer sistema de reservas de billetes de lÌneas aÈreas. Es conocida como la creadora de los procesadores de texto.
+F√≠sica, inform√°tica y empresaria estadounidense. Invent√≥ el ordenador de oficina. Desarroll√≥ el primer sistema de reservas de billetes de l√≠neas a√©reas. Es conocida como la creadora de los procesadores de texto.
 
-En 1951 Evelyn Berezin se casÛ con Israel Wilenitz. En ese mismo aÒo fue contratada por la Electronic Computer Corporation (Elecom) en Brooklyn para que 'diseÒara un ordenador'. El resultado fue la m·quina Elecom200. En 1953 la compra de Electronic Computer Corporation por parte de Underwood Typewriter Company propiciÛ que Evelyn Berezin se convirtiera en directora del departamento de diseÒo de lÛgica, donde creÛ lo que se considera el primer ordenador de oficina, que nunca llegÛ a comercializarse por la adquisiciÛn de Underwood por Olivetti en 1959.
+En 1951 Evelyn Berezin se cas√≥ con Israel Wilenitz. En ese mismo a√±o fue contratada por la Electronic Computer Corporation (Elecom) en Brooklyn para que 'dise√±ara un ordenador'. El resultado fue la m√°quina Elecom200. En 1953 la compra de Electronic Computer Corporation por parte de Underwood Typewriter Company propici√≥ que Evelyn Berezin se convirtiera en directora del departamento de dise√±o de l√≥gica, donde cre√≥ lo que se considera el primer ordenador de oficina, que nunca lleg√≥ a comercializarse por la adquisici√≥n de Underwood por Olivetti en 1959.
 
-Contratada por Teleregister Corp. concibiÛ y produjo el primer procesador inform·tico, que permitÌa almacenar y editar textos. TambiÈn diseÒÛ el primer sistema on-line de reservas de billetes de lÌneas aÈreas para United Airlines, considerado el prototipo de los modernos sistemas interactivos. Trabajando para Digitronics Corporation diseÒÛ el primer terminal de comunicaciones a alta velocidad con fines comerciales.
+Contratada por Teleregister Corp. concibi√≥ y produjo el primer procesador inform√°tico, que permit√≠a almacenar y editar textos. Tambi√©n dise√±√≥ el primer sistema on-line de reservas de billetes de l√≠neas a√©reas para United Airlines, considerado el prototipo de los modernos sistemas interactivos. Trabajando para Digitronics Corporation dise√±√≥ el primer terminal de comunicaciones a alta velocidad con fines comerciales.
+
+Aqui va la imagen
