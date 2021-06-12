@@ -1,5 +1,7 @@
 # **Hedwig Eva Maria Kiesler, conocida como Hedy Lamarr (Viena, 9 de noviembre de 1914? - Casselberry, Florida, 19 de enero de 2000)**
 
-Fue una actriz de cine e inventora austriaca. Fue co-inventora junto a George Antheil de la primera versiÛn del espectro ensanchado que permitirÌa las comunicaciones inal·mbricas de largas distancias.
+Fue una actriz de cine e inventora austriaca. Fue co-inventora junto a George Antheil de la primera versi√≥n del espectro ensanchado que permitir√≠a las comunicaciones inal√°mbricas de largas distancias.
 
-Al comienzo de la Segunda Guerra Mundial, ella y el compositor George Antheil desarrollaron la patente de un sistema de guÌa por radio para torpedos aliados que utilizaba el espectro ensanchado y la tecnologÌa de salto de frecuencia para vencer la amenaza de interferencias por parte de las potencias del Eje. Aunque la Armada de los Estados Unidos no adoptÛ la tecnologÌa hasta la dÈcada de 1960, los principios de su trabajo se unieron a la tecnologÌa Bluetooth y son similares a los mÈtodos utilizados en las versiones heredadas de Wi-Fi.
+Al comienzo de la Segunda Guerra Mundial, ella y el compositor George Antheil desarrollaron la patente de un sistema de gu√≠a por radio para torpedos aliados que utilizaba el espectro ensanchado y la tecnolog√≠a de salto de frecuencia para vencer la amenaza de interferencias por parte de las potencias del Eje. Aunque la Armada de los Estados Unidos no adopt√≥ la tecnolog√≠a hasta la d√©cada de 1960, los principios de su trabajo se unieron a la tecnolog√≠a Bluetooth y son similares a los m√©todos utilizados en las versiones heredadas de Wi-Fi.
+
+Aqui va la imagen 
