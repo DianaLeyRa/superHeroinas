@@ -6,7 +6,7 @@ _Conocida habitualmente como Ada Lovelace, fue una matem√°tica y escritora brit√
 **Adejetivos Calificativos:**
 
 | Inteligente        | Ambiciosa           | Apasionada  | Curiosa  | Seductora | Controvertida |
-| ------------------ |:-------------------:| -----------:|--    ---:|----------:|--------------:|
+| ------------------ |:-------------------:| -----------:|---------:|----------:|--------------:|
 | :neckbeard:        | :moneybag:          | :heart:     | :eyes:   | :lips:    |   :tongue:    |
 
 
