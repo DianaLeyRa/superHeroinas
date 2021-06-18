@@ -55,7 +55,7 @@ Por otro lado, renunció a hacer películas como Luz de gas (en España Luz que 
 ---
 
 
-Año | Carrera y contribuciones 
+Año | Premios 
 --- | --- 
 *1939* | `Lamarr fue seleccionada como la "nueva actriz más prometedora."`
 *1997* | `Lamarr y George Antheil fueron honrados conjuntamente con el Premio Pioneer de la Electronic Frontier Foundation y Lamarr también fue la primera mujer en recibir el Premio BULBIE Gnass Spirit of Achievement de la Convención de Invención, conocido como "Oscars of inventing"."` 
